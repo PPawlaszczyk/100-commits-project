@@ -5,13 +5,14 @@
 - [General info](#General-info)
 - [Technologies](#Technologies)
 - [Getting started](#getting-started)
-- [Contributing](#contributing)
+- [FAQ](#FAQ)
 - [License](#license)
 - [Setup](#Setup)
 
 ## General-info
+Inspired by the website AniaGotuje and Redit, I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
 ## Technologies
 ## Getting started
-## Contributing
+## FAQ
 ## License
 ## Setup
