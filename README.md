@@ -10,7 +10,7 @@
 - [Setup](#Setup)
 
 ## General-info
-Inspired by the website AniaGotuje and Redit, I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
+Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
 ## Technologies
 ## Getting started
 ## FAQ
