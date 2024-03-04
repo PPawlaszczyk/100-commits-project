@@ -5,7 +5,7 @@
 - [General info](#General-info)
 - [Technologies](#Technologies)
 - [Assumptions](#assumptions)
-- [Roadmap] (#roadmap)
+- [Roadmap](#roadmap)
 - [Getting started](#getting-started)
 - [FAQ](#FAQ)
 - [License](#license)
