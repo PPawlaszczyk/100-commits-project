@@ -6,7 +6,7 @@
 - [Technologies](#Technologies)
 - [Assumptions](#assumptions)
 - [Roadmap](#roadmap)
-- [Getting started](#getting-started)
+- [Conceptual Model](#Conceptual-Model)
 - [FAQ](#FAQ)
 - [License](#license)
 - [Setup](#Setup)
@@ -17,6 +17,7 @@ Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to creat
 - C#
 - Node
 ## Assumptions
+
 - Obsługiwana baza danych MSSQL
 - Nauka Angulara jako frontend do tworzenia stron
 - Nauka tworzenia strony webowej biznesowej
@@ -32,7 +33,7 @@ Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to creat
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
 - Utworzenie frontendu (18.03.2024-01.04.2024)
 - 
-## Getting started
+## Conceptual Model
 ## FAQ
 ## License
 ## Setup
