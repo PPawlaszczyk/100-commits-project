@@ -32,7 +32,7 @@ Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to creat
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
 - Utworzenie frontendu (18.03.2024-01.04.2024)
-- 
+- Zaawansowany filtr i rejestracja użytkowników (01.04.2024-09.04.2024)
 ## Conceptual Model
 ## FAQ
 ## License
