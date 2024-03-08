@@ -29,6 +29,9 @@ Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z me
 - Tworzenie koszyka produktów z zamówieniem do domu **(S)**
 - Rejestracja użytkowników (**M)**
 - System Like'ów i komentarzy **(M)**
+- Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
+- Implementacja lens picutre (wyszukiwanie po obrazku dania) **(C)**
+- 
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
