@@ -4,7 +4,7 @@
 ## Table of contents
 - [General info](#General-info)
 - [Technologies](#Technologies)
-- [Assumptions](#assumptions)
+- [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
 - [Conceptual Model](#Conceptual-Model)
 - [FAQ](#FAQ)
@@ -16,7 +16,7 @@ Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to creat
 ## Technologies
 - C#
 - Node
-## Assumptions
+## Assumptions and features
 Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być),  C – COULD (może być) W – WON’T (nie będzie).
 
 - Obsługiwana baza danych MSSQL **(S)**
@@ -42,6 +42,8 @@ Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z me
 - Koszyk produktów (01.05.2024-14.05.2024)
 - Opcjonalne featuer'y (16.05.2024-31.05.2024)
 ## Conceptual Model
+  Przedstawiony poniżej model wykonano za pomocą miro.com
+  
 ## FAQ
 ## License
 ## Setup
