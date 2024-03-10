@@ -24,26 +24,27 @@ Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z me
 - Nauka tworzenia strony webowej biznesowej **(M)**
 - Zaawansowany filtr po dużych zbiorach danych **(M)**
 - Generowanie QR kodu dla każdego przepisu stworzonego na stronie **(C)**
-- Użycie geolokacji do przetestowania smaku wyświetlanego przepisu w resturacji znajdującej się w najbliższym sąsiedztwie **(C)**
+- Użycie lokalizacji do wyszukaniu pobliskiej resturacji znajdującej się w najbliższym sąsiedztwie i przetestowania smaku wyświetlanego przepisu **(C)**
 - Możliwość wyświetlania strony na telefonie **(C)**
 - Tworzenie koszyka produktów z zamówieniem do domu **(S)**
 - Rejestracja użytkowników (**M)**
 - System Like'ów i komentarzy **(M)**
 - Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
-- Implementacja lens picutre (wyszukiwanie po obrazku dania) **(C)**
-- 
+- Implementacja lens picture (wyszukiwanie po obrazku dania) **(C)**
+- Sortowanie **(M)**
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
 - Utworzenie frontendu (19.03.2024-01.04.2024)
 - Rejestracja użytkowników (01.04.2024-04.04.2024)
-- Zaawansowany filtr i konfiguracje bazy danych  (05.04.2024-20.04.2024)
+- Zaawansowany filtr, sortowanie i konfiguracje bazy danych  (05.04.2024-20.04.2024)
 - System like'ów i komentarzy (21.04.2024-30.04.2024)
 - Koszyk produktów (01.05.2024-14.05.2024)
 - Opcjonalne featuer'y (16.05.2024-31.05.2024)
 ## Conceptual Model
   Przedstawiony poniżej model wykonano za pomocą miro.com
-  
+  ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/0aec6955-6ad0-4f59-8cb2-b5fffcbd1d6a)
+
 ## FAQ
 ## License
 ## Setup
