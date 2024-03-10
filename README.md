@@ -43,7 +43,7 @@ Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z me
 - Opcjonalne featuer'y (16.05.2024-31.05.2024)
 ## Conceptual Model
   Przedstawiony poniżej model wykonano za pomocą miro.com
-  ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/0aec6955-6ad0-4f59-8cb2-b5fffcbd1d6a)
+![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/b60fdc46-2e21-4f94-9c1c-ec5c0ea1204d)
 
 ## FAQ
 ## License
