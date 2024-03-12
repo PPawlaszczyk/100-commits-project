@@ -3,7 +3,7 @@
 
 ## Table of contents
 - [General info](#General-info)
-- [Technologies](#Technologies)
+- [Technologies](#Technologies-and-libraries)
 - [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
 - [Conceptual Model](#Conceptual-Model)
@@ -13,9 +13,12 @@
 
 ## General-info
 Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
-## Technologies
+## Technologies and libraries 
 - C#
 - Node
+- EntityFramework
+- NLog
+- Xunit
 ## Assumptions and features
 Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być),  C – COULD (może być) W – WON’T (nie będzie).
 
