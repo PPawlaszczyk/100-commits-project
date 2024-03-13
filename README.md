@@ -12,7 +12,7 @@
 - [Setup](#Setup)
 
 ## General-info
-Inspired by the website www.aniagotuje.pl and www.Redit.com , I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
+Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
 ## Technologies and libraries 
 - C#
 - Node
@@ -38,9 +38,9 @@ Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z me
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
-- Utworzenie frontendu (19.03.2024-01.04.2024)
-- Rejestracja użytkowników (01.04.2024-04.04.2024)
-- Zaawansowany filtr, sortowanie i konfiguracje bazy danych  (05.04.2024-20.04.2024)
+- Utworzenie frontend'u (19.03.2024-01.04.2024)
+- System autoryzacji użytkowników (01.04.2024-04.04.2024)
+- Filtr  do wyszukiwarki, sortowanie i konfiguracja bazy danych  (05.04.2024-20.04.2024)
 - System like'ów i komentarzy (21.04.2024-30.04.2024)
 - Koszyk produktów (01.05.2024-14.05.2024)
 - Opcjonalne featuer'y (16.05.2024-31.05.2024)
