@@ -20,21 +20,23 @@ Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create
 - NLog
 - Xunit
 ## Assumptions and features
-Poniżej zapisano funkcjonalności jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być),  C – COULD (może być) W – WON’T (nie będzie).
+Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być),  C – COULD (może być) W – WON’T (nie będzie).
 
-- Obsługiwana baza danych MSSQL **(S)**
-- Nauka Angulara jako frontend do tworzenia stron **(M)**
-- Nauka tworzenia strony webowej biznesowej **(M)**
+- Wykorzystanie i nauczenie się Angulara jako frontend do tworzenia stron **(M)**
+- Zastosowanie i nauczenie się tworzenia strony webowej biznesowej **(M)**
 - Zaawansowany filtr po dużych zbiorach danych **(M)**
+- Autoryzacja użytkowników (**M)**
+- System Like'ów i komentarzy **(M)**
+- Sortowanie na stronie www. **(M)**
+  
+- Obsługiwana baza danych MSSQL **(S)**
+- Tworzenie koszyka produktów z zamówieniem do domu **(S)**
+  
+- Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
+- Implementacja lens picture (wyszukiwanie po obrazku) **(C)**
+- Możliwość wyświetlania strony na telefonie **(C)**
 - Generowanie QR kodu dla każdego przepisu stworzonego na stronie **(C)**
 - Użycie lokalizacji do wyszukaniu pobliskiej resturacji znajdującej się w najbliższym sąsiedztwie i przetestowania smaku wyświetlanego przepisu **(C)**
-- Możliwość wyświetlania strony na telefonie **(C)**
-- Tworzenie koszyka produktów z zamówieniem do domu **(S)**
-- Rejestracja użytkowników (**M)**
-- System Like'ów i komentarzy **(M)**
-- Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
-- Implementacja lens picture (wyszukiwanie po obrazku dania) **(C)**
-- Sortowanie **(M)**
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
 - Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
