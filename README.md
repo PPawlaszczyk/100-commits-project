@@ -22,15 +22,18 @@ Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create
 ## Assumptions and features
 Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być),  C – COULD (może być) W – WON’T (nie będzie).
 
+
 - Wykorzystanie i nauczenie się Angulara jako frontend do tworzenia stron **(M)**
 - Zastosowanie i nauczenie się tworzenia strony webowej biznesowej **(M)**
 - Zaawansowany filtr po dużych zbiorach danych **(M)**
 - Autoryzacja użytkowników (**M)**
 - System Like'ów i komentarzy **(M)**
 - Sortowanie na stronie www. **(M)**
+
   
 - Obsługiwana baza danych MSSQL **(S)**
 - Tworzenie koszyka produktów z zamówieniem do domu **(S)**
+
   
 - Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
 - Implementacja lens picture (wyszukiwanie po obrazku) **(C)**
