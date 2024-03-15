@@ -27,7 +27,7 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 - Zaawansowany filtr po dużych zbiorach danych **(M)**
 - Autoryzacja użytkowników (**M)**
 - System Like'ów i komentarzy **(M)**
-- Sortowanie na stronie www. **(M)**  
+- Sortowanie po kilku parametrach **(M)**  
 - Obsługiwana baza danych MSSQL **(S)**
 - Tworzenie koszyka produktów z zamówieniem do domu **(S)**
 - Zaawansowany profil użytkownika (system do wysyłania/odbierania wiadomości, tworzenie własnych przepisów) **(C)**
