@@ -20,11 +20,7 @@ Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create
 - NLog
 - Xunit
 ## Assumptions and features
-Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. 
-M – MUST (musi być), 
-S – SHOULD (powinien być),  
-C – COULD (może być),
- W – WON’T (nie będzie).
+Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodnie z metodą MoSCoW przydzielono jej priorytety dopisując na końcu skróty liter. M – MUST (musi być), S – SHOULD (powinien być), C – COULD (może być), W – WON’T (nie będzie).
 
 - Zastosowanie i nauczenie się Angulara jako frontend do tworzenia stron **(M)**
 - Zastosowanie i nauczenie się tworzenia strony webowej biznesowej **(M)**
