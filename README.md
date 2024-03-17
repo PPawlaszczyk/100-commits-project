@@ -36,8 +36,8 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 - Rozpoznawanie/wyszukiwanie dania po obrazie (wyszukiwanie po obrazku) **(C)**
 - Wyszukaniu pobliskiej resturacji z wyszukanym przepisem na podstawie udostępnionej lokalizacji **(C)**
 ## Roadmap
-- Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024).
-- Wybranie architektury i stworzenie szkicu strony www (11.03.2024-18.03.2024)
+- Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024)
+- Wybranie architektury i stworzenie szkicu strony www, opracowanie algorytmu do pobierania danych z innych stron (11.03.2024-18.03.2024)
 - Opracowanie frontend'u (19.03.2024-01.04.2024)
 - System autoryzacji użytkowników (01.04.2024-04.04.2024)
 - Wyszukiwarka, sortowanie i konfiguracja bazy danych  (05.04.2024-20.04.2024)
