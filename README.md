@@ -48,6 +48,9 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
   Przedstawiony poniżej model wykonano za pomocą miro.com
 ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/127a9c38-c6db-4aad-9a60-3935c634002c)
 
+![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/3e9ad639-3e21-40d8-8b89-2c9777f65a86)
+
+
 ## FAQ
 ## License
 ## Setup
