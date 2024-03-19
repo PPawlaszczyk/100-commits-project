@@ -33,7 +33,7 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 - Profil użytkownika z komunikatorem do wiadomości, kreator przepisów **(C)**
 - Web design dostosowany na telefonie **(C)**
 - Generowanie QR kodu dla kreatora przepisów **(C)**
-- Rozpoznawanie/wyszukiwanie dania po obrazie (wyszukiwanie po obrazku) **(C)**
+- Rozpoznawanie/wyszukiwanie dania po zdjęciu (wyszukiwanie po zdjęciu) **(C)**
 - Wyszukaniu pobliskiej resturacji z wyszukanym przepisem na podstawie udostępnionej lokalizacji **(C)**
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024)
