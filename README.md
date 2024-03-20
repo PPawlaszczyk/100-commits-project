@@ -36,14 +36,14 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 - Rozpoznawanie/wyszukiwanie dania po zdjęciu (wyszukiwanie po zdjęciu) **(C)**
 - Wyszukaniu pobliskiej resturacji z wyszukanym przepisem na podstawie udostępnionej lokalizacji **(C)**
 ## Roadmap
-- Utworzenie diagramu działania i omówienie założeń projektowych (01.03.2024 do 11.03.2024)
-- Wybranie architektury i stworzenie szkicu strony www, opracowanie algorytmu do pobierania danych z innych stron (11.03.2024-18.03.2024)
-- Opracowanie frontend'u (19.03.2024-01.04.2024)
-- System autoryzacji użytkowników (01.04.2024-04.04.2024)
-- Wyszukiwarka, sortowanie i konfiguracja bazy danych  (05.04.2024-20.04.2024)
-- System like'ów i komentarzy (21.04.2024-30.04.2024)
-- Koszyk produktów (01.05.2024-14.05.2024)
-- Opcjonalne featuer'y (16.05.2024-31.05.2024)
+- Utworzenie diagramu działania i omówienie założeń projektowych **(01.03.2024 do 11.03.2024)**
+- Wybranie architektury i stworzenie szkicu strony www, opracowanie algorytmu do pobierania danych z innych stron **(11.03.2024-18.03.2024)**
+- Opracowanie frontend'u **(19.03.2024-01.04.2024)**
+- System autoryzacji użytkowników **(01.04.2024-04.04.2024)**
+- Wyszukiwarka, sortowanie i konfiguracja bazy danych  **(05.04.2024-20.04.2024)**
+- System like'ów i komentarzy **(21.04.2024-30.04.2024)**
+- Koszyk produktów **(01.05.2024-14.05.2024)**
+- Opcjonalne featuer'y **(16.05.2024-31.05.2024)**
 ## Conceptual Model
   Przedstawiony poniżej model wykonano za pomocą miro.com
 ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/127a9c38-c6db-4aad-9a60-3935c634002c)
