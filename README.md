@@ -1,7 +1,7 @@
 # FoodChecker
 
 ## Table of contents
-- [General info](#General-info)
+- [General](#General)
 - [Technologies](#Technologies-and-libraries)
 - [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
@@ -10,7 +10,7 @@
 - [License](#license)
 - [Setup](#Setup)
 
-## General-info
+## General
 Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
 ## Technologies and libraries 
 - C#
