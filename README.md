@@ -6,7 +6,6 @@
 - [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
 - [Conceptual Model](#Conceptual-Model)
-- [FAQ](#FAQ)
 - [License](#license)
 - [Setup](#Setup)
 
@@ -52,6 +51,5 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/3e9ad639-3e21-40d8-8b89-2c9777f65a86)
 
 
-## FAQ
 ## License
 ## Setup
