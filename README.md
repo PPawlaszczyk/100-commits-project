@@ -15,7 +15,7 @@ Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create
 Aplikacja ma ułatwiać użytkownikom codzienne planowanie zakupów jak i poszukiwanie najlepszych przepisów
 ## Technologies and libraries 
 - C#
-- Node
+- Node.js
 - EntityFramework
 - NLog
 - Xunit
