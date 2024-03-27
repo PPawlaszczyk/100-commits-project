@@ -6,7 +6,6 @@
 - [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
 - [Conceptual Model](#Conceptual-Model)
-- [License](#license)
 - [Setup](#Setup)
 
 ## General
@@ -44,6 +43,7 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 - System like'ów i komentarzy **(21.04.2024-30.04.2024)**
 - Koszyk produktów **(01.05.2024-14.05.2024)**
 - Refactoring **(16.05.2024-31.05.2024)**
+- 
 ## Conceptual Model
   Przedstawiony poniżej model wykonano za pomocą miro.com
 ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/127a9c38-c6db-4aad-9a60-3935c634002c)
@@ -51,5 +51,4 @@ Poniżej zapisano założenia projektowe jakie ma spełniać program oraz zgodni
 ![image](https://github.com/PPawlaszczyk/100-commits-project/assets/45148732/3e9ad639-3e21-40d8-8b89-2c9777f65a86)
 
 
-## License
 ## Setup
