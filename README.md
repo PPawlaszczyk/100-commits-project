@@ -9,9 +9,8 @@
 - [Setup](#Setup)
 
 ## General
-Inspired by the website www.aniagotuje.pl and www.ceneo.pl,  I decided to create my own website where everyone can evaluate a recipe, verify it with real photos and order ingredients to take home.
+Inspired by websites like www,ceneo.pl and www.aniagotuje.pl I am creating a website for cooking experience enhancement, where we will be able to find and score different types of recipes from different websites and then, following the links, make fast orders to your home with necessary ingredients from local markets. During the development of the application I am using the DDD programming approach and various technologies and frameworks such as .Net 8, Angular, Typescript, bootstrap 5, node.js, EntityFramework and Xunit.
 
-Aplikacja ma ułatwiać użytkownikom codzienne planowanie zakupów jak i poszukiwanie najlepszych przepisów
 ## Technologies and libraries 
 - C#
 - Node.js
