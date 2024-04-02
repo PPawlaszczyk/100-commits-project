@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [General](#General)
-- [Technologies](#Technologies-and-libraries)
+- [Technologies](#Technologies-and-libraries-Frameworks)
 - [Assumptions](#assumptions-and-features)
 - [Roadmap](#roadmap)
 - [Conceptual Model](#Conceptual-Model)
@@ -10,7 +10,7 @@
 ## General
 Inspired by websites like www,ceneo.pl and www.aniagotuje.pl I am creating a website for cooking experience enhancement, where we will be able to find and score different types of recipes from different websites and then, following the links, make fast orders to your home with necessary ingredients from local markets. During the development of the application I am using the DDD programming approach and various technologies and frameworks such as .Net 8, Angular, Typescript, bootstrap 5, node.js, EntityFramework and Xunit.
 
-## Technologies and libraries 
+## Technologies, libraries, Frameworks 
 - C#
 - Node.js
 - EntityFramework
