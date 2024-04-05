@@ -32,6 +32,7 @@ Opisano tutaj założenia projektowe jakie ma spełniać program oraz zgodnie z 
 - Generowanie QR kodu dla kreatora przepisów **(C)**
 - Rozpoznawanie/wyszukiwanie dania po zdjęciu (wyszukiwanie po zdjęciu) **(C)**
 - Wyszukaniu pobliskiej resturacji z wyszukanym przepisem na podstawie udostępnionej lokalizacji **(C)**
+- 
 ## Roadmap
 - Utworzenie diagramu działania i omówienie założeń projektowych **(01.03.2024 do 11.03.2024)**
 - Wybranie architektury i stworzenie szkicu strony www, opracowanie algorytmu do pobierania danych z innych stron **(11.03.2024-18.03.2024)**
