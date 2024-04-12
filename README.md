@@ -40,5 +40,4 @@ Opisano tutaj założenia projektowe jakie ma spełniać program oraz zgodnie z 
 - Wyszukiwarka, sortowanie i konfiguracja bazy danych  **(05.04.2024-20.04.2024)**
 - System like'ów i komentarzy **(21.04.2024-30.04.2024)**
 - Koszyk produktów **(01.05.2024-14.05.2024)**
-- 
 ## Conceptual Model
